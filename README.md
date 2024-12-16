@@ -82,4 +82,4 @@ MyDuka is a comprehensive shop management application built with modern Android 
 - **Design System**: Material 3
 - **Build System**: Gradle with Kotlin DSL
 
-## Project Structure 
+## Project Structure
