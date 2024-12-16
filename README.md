@@ -31,6 +31,46 @@ MyDuka is a comprehensive shop management application built with modern Android 
   - Blacklist feature for credit management
   - Customer information storage
 
+## UI/UX Features
+
+### Material Design 3
+- Dynamic color theming
+- Elegant typography
+- Modern component designs
+- Consistent spacing and layouts
+
+### Key UI Components
+- **Cards**
+  - Stock item cards with quick actions
+  - Financial record cards with detailed information
+  - Credit customer cards with status indicators
+
+- **Interactive Elements**
+  - Validated text fields with real-time feedback
+  - Intuitive quantity controls
+  - Confirmation dialogs for important actions
+  - Bottom navigation for easy screen switching
+
+- **Data Visualization**
+  - Financial trends chart
+  - Low stock indicators
+  - Credit status indicators
+  - Daily totals overview
+
+- **Responsive Layout**
+  - Adaptive layouts for different screen sizes
+  - Proper spacing and alignment
+  - Scrollable content areas
+  - Efficient use of screen real estate
+
+### User Experience
+- Real-time validation feedback
+- Smooth navigation transitions
+- Clear error messages
+- Intuitive data input
+- Quick access to common actions
+- Professional and clean interface
+
 ## Tech Stack
 
 - **Language**: Kotlin
